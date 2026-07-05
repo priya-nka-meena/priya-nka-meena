@@ -22,11 +22,14 @@
 
 ## About Me
 
-I'm a B.Tech CSE student at **NIT Delhi** building full-stack web applications with a focus on clean architecture and real-world usability.
+I'm a **pre-final year B.Tech Computer Science student at NIT Delhi** passionate about building impactful software and solving real-world problems through technology.
 
-I enjoy writing maintainable code, solving practical problems, and turning ideas into working projects that are reliable and scalable.
+I believe in **consistent learning, hard work, and steady improvement**. I enjoy writing clean, maintainable code and continuously challenging myself by building projects that strengthen my technical and problem-solving skills.
 
-Currently, I am strengthening my skills in full-stack development and problem-solving.
+I'm particularly passionate about **using technology to address grassroots social challenges**. I enjoy identifying everyday problems faced by communities and designing practical, scalable solutions that can create meaningful real-world impact.
+
+With a strong foundation in **full-stack development**, I am currently **exploring Artificial Intelligence and Machine Learning (AI/ML)** while deepening my understanding of **software engineering, data structures & algorithms, and scalable system design**.
+
 
 📍 New Delhi, India &nbsp;•&nbsp; 🎯 Seeking SDE / Full Stack Internships
 
@@ -48,7 +51,6 @@ Currently, I am strengthening my skills in full-stack development and problem-so
 
 ### ⚙️ Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ### 🗄️ Databases
@@ -66,8 +68,6 @@ Currently, I am strengthening my skills in full-stack development and problem-so
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-AI-assisted development tools: ChatGPT, Cursor, Claude
 
 ---
 
